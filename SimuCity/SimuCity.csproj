@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    SIMUCITY - My Virtual Town
+    A beginner-friendly C# Windows Forms desktop app (.NET 8).
+    Run it on Windows with:  dotnet run (from the SimuCity folder)
+    or open SimuCity.sln in Visual Studio 2022 and press F5.
+  -->
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>SimuCity</AssemblyName>
+    <RootNamespace>SimuCity</RootNamespace>
+  </PropertyGroup>
+
+</Project>
